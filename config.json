@@ -1,0 +1,92 @@
+{
+	"clientId": "915532683847815198",
+	"embedColor": "457ab0",
+	"commands": "146",
+	"ownerId": "880143303364980767",
+	"api": {
+		"cat": "https://nekos.life/api/v2/img/meow",
+		"dictionary": "https://api.dictionaryapi.dev/api/v2/entries/en/",
+		"dog": "https://nekos.life/api/v2/img/woof",
+		"github": "https://api.github.com/users/{name}",
+		"covidAll": "https://disease.sh/v3/covid-19/all",
+		"smartcat": "https://vacefron.nl/api/womanyellingatcat?woman={woman}&cat={cat}",
+		"covidCountry": "https://disease.sh/v3/covid-19/countries/{country}",
+		"mcHead": "https://mc-heads.net/avatar/{string}",
+		"mcSkin": "https://mc-heads.net/player/{string}",
+		"redditMemes": "https://www.reddit.com/r/memes/random/.json"
+	},
+	"channels": {
+		"logBlacklist": "917005859576487977",
+		"logErrors": "992228279006273567",
+		"logExecutedCommands": "915582512774926407",
+		"logGuild": "915580197787549726"
+	},
+	"emojis": {
+		"catCry": "<:catCry:988967782316138496>",
+		"chat": "<a:chat:917444331961466970>",
+		"correct": "<:tickYes:1006201222329548810>",
+		"dnd": "<:dnd:915585399131361280>",
+		"error": "<:tickNo:1006201302700806204>",
+		"idle": "<:idle:917918573459021877>",
+		"loading": "<a:loading:1006203987646759032>",
+		"members": "<:members:926660532294004767>",
+		"minecraft": "<a:minecraftanim:915628652350287933>",
+		"mod": "<:mod:915582108066512907>",
+		"money": "<:money:915615956045299742>",
+		"online": "<:online:915585399097810964>",
+		"owner": "<:owner:915618420349886524>",
+		"robotCop": "<:robotCop:917822041984487444>",
+		"robotHeart": "<:robotHeart:917822040587784282>",
+		"robotMoney": "<:robotMoney:917822040537460808>",
+		"robotTrash": "<:robotTrash:917822039761489972>",
+		"scarcoin": "<:scarcoin:967787449814245436>",
+		"tag": "<:tag:926659546997477416>"
+	},
+	"images": {
+		"8ball": "https://cdn.discordapp.com/attachments/915566666438549544/915576845750124564/8ball.png",
+		"correctGif": "https://cdn.discordapp.com/attachments/915566666438549544/988907563452104704/tick.gif",
+		"number": "https://cdn.discordapp.com/attachments/915566666438549544/915576847453003876/number.png",
+		"ranking": "https://cdn.discordapp.com/attachments/915566666438549544/992179448713576528/ranking.png",
+		"world": "https://i.imgur.com/a4014ev.png",
+		"xGif": "https://cdn.discordapp.com/attachments/915566666438549544/988907563825381406/x.png",
+		"hug": [
+			"https://imgur.com/RgfGLNk.gif",
+			"https://i.imgur.com/r9aU2xv.gif",
+			"https://i.imgur.com/wOmoeF8.gif",
+			"https://i.imgur.com/nrdYNtL.gif",
+			"https://imgur.com/82xVqUg.gif",
+			"https://imgur.com/c3WzMZu.gif",
+			"https://imgur.com/BPLqSJC.gif",
+			"https://imgur.com/ntqYLGl.gif",
+			"https://imgur.com/v47M1S4.gif",
+			"https://imgur.com/6qYOUQF.gif"
+		],
+		"punch": [
+			"https://i.imgur.com/njZQO7j.gif",
+			"https://i.imgur.com/MOkbBkk.gif",
+			"https://i.imgur.com/P0OkXYN.gif",
+			"https://i.imgur.com/e1ooaSX.gif",
+			"https://i.imgur.com/EGHSSY0.gif"
+		],
+		"ranks": {
+			"1": "https://cdn.discordapp.com/attachments/1009158147161731092/1009158673370722424/1.png",
+			"2": "https://cdn.discordapp.com/attachments/1009158147161731092/1009158730581016607/2.png",
+			"3": "https://cdn.discordapp.com/attachments/1009158147161731092/1009158742572531742/3.png",
+			"4": "https://cdn.discordapp.com/attachments/1009158147161731092/1009158756023664660/4.png",
+			"5": "https://cdn.discordapp.com/attachments/1009158147161731092/1009158763871207454/5.png",
+			"null": "https://cdn.discordapp.com/attachments/1009158147161731092/1118958495564304394/rankcardNull.png"
+		}
+	},
+	"links": {
+		"addBot": "https://discord.com/oauth2/authorize?client_id=915532683847815198&permissions=1110127796303&redirect_uri=https://scarbot.com/callback&response_type=code&scope=guilds%20identify%20bot",
+		"changelog": "https://status.scarbot.com/incidents",
+		"commands": "https://scarbot.com/commands/",
+		"contactForm": "https://scarbot.com/support",
+		"donate": "https://scarbot.com/donate",
+		"supportServer": "https://discord.gg/zB4f2Etm8A",
+		"terms": "https://scarbot.com/terms/",
+		"vote": "https://top.gg/bot/915532683847815198/vote",
+		"website": "https://scarbot.com",
+		"status": "https://status.scarbot.com"
+	}
+}
